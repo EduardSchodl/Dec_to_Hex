@@ -1,0 +1,8 @@
+-T "C:\Users\Eduda\Desktop\POT2024_A23B0301P_Schodl\Schodl_A23B0301P\Schodl_A23B0301P\Debug\Schodl_A23B0301P_Debug_auto.gsi"
+-T "C:\Users\Eduda\Desktop\POT2024_A23B0301P_Schodl\Schodl_A23B0301P\Schodl_A23B0301P\Debug\Schodl_A23B0301P_input.tmp" 
+-L "c:\program files (x86)\renesas\hew\tools\kpit cummins\gnuh8-elf\v11.02\h8300-elf\lib\gcc\h8300-elf\4.5-GNUH8_v11.02\h8300s"
+-L "c:\program files (x86)\renesas\hew\tools\kpit cummins\gnuh8-elf\v11.02\h8300-elf\h8300-elf\lib\h8300s"
+-Map "C:\Users\Eduda\Desktop\POT2024_A23B0301P_Schodl\Schodl_A23B0301P\Schodl_A23B0301P\Debug\Schodl_A23B0301P.map"
+-( -l "optc" -l "optm" -l "gcc" -)
+-o "C:\Users\Eduda\Desktop\POT2024_A23B0301P_Schodl\Schodl_A23B0301P\Schodl_A23B0301P\Debug\Schodl_A23B0301P.x"
+-e _start
